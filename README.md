@@ -25,3 +25,5 @@ The dataset contains state-wise electricity consumption across India with geogra
 data/ → dataset
 sql/ → SQL queries
 tableau/ → Tableau dashboards
+story/ → story_points
+web integration/ → index.html
