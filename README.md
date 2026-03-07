@@ -8,7 +8,6 @@ Using SQL and Tableau, the project visualizes monthly trends, regional demand di
 ->> Interactive Tableau Dashboard
 
 https://public.tableau.com/views/India_Electricity_Consumption_Dashboard/Dashboard1?:language=en-US&:sid=&:redirect=auth&publish=yes&showOnboarding=true&:display_count=n&:origin=viz_share_link
-<img width="1337" height="895" alt="image" src="https://github.com/user-attachments/assets/7ebd4a97-a129-432e-82bb-0a185ad058cf" />
 
 ->> Tableau Story (Analysis Walkthrough)
 
